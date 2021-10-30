@@ -29,7 +29,7 @@ Team members present a provisional database that stands in for the final databas
 1. Sample data that mimics the expected final database structure or schema
 The data sets provided by Zillow include House Values, Home Values Forecasts, Rentals, Inventory, List and Sale Prices, Sales Count and Price Cuts. The ERD below helps visualize how we will be able to connect the data sets available. The RegionID column will be the primary key. By analyzing the ERD, you can  tell that the Rentals data set would not provide any valuable insights for our project so it was removed. 
 
-
+![Housing Data ERD](zillow_housing_data_erd.png)
  
 
 Data filters: State, Year
