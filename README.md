@@ -4,3 +4,5 @@
 https://drive.google.com/drive/folders/1jt_SYqlQy0iqgjkiEEsU6wbk-BqBQ79b
 
 # Our machine model will learn to tell us using 5 factors when the housing market will boom or bust. #
+
+# I used Excel and Word to make a make-up as a Triangle. #
