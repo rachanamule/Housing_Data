@@ -25,12 +25,20 @@ The US housing market is relatively interesting and there were low interest rate
 
 
 ## Database 
-Team members present a provisional database that stands in for the final database and accomplishes the following:
-1. Sample data that mimics the expected final database structure or schema
-The data sets provided by Zillow include House Values, Home Values Forecasts, Rentals, Inventory, List and Sale Prices, Sales Count and Price Cuts. The ERD below helps visualize how we will be able to connect the data sets available. The RegionID column will be the primary key. By analyzing the ERD, you can  tell that the Rentals data set would not provide any valuable insights for our project so it was removed. 
 
-![Housing Data ERD](zillow_housing_data_erd.png)
- 
+The data sets provided by Zillow include Home Values, Home Values Forecasts, Rentals, Inventory, List and Sale Prices, Sales Count and Price Cuts for the United States.
 
-Data filters: State, Year
-1. Draft machine learning module is connected to the provisional database
+-Home Values Data Set: Zillow Home Value Index (ZHVI) provides the measures of the home value and market changes by region and housing type.
+-Home Values Forecasts: Zillow Home Value Forecast (ZHVF) one year forecast that is created by using data from all the homes. 
+-Rentals: Zillow Observed Rent Index (ZORI) provides the typical rate rent by region. 
+-Inventory: For-sale inventory, new listings, newly pending listings, days to pending. This is reported on a weekly cadence but the data set is only updated monthly. 
+-List and Sale Prices: data set provides the median list price and the median sale price. This is reported on a weekly cadence but the data set is only updated monthly. 
+-Sales Count and Price Cuts:
+
+Our team will be using SQL to join the data sets and create two tables. The first table will include the RegionID, RegionName, StateName, Date, and dollar value. We will be able to join this table by using RegionID. The second table will include the RegionName, StateName, ForecastedDate, ForecastYoYPctChange. We will be able to join by RegionName. Example: 
+
+![Example](tables_example.png)
+
+Link to Zillow csv data sets: https://www.zillow.com/research/data/
+
+
