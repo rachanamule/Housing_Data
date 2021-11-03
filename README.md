@@ -1,3 +1,4 @@
+
 ## Housing_Data ##
 
 # We made an important Google Drive folder with everything in it:
@@ -18,3 +19,48 @@ Booming or busting
 #
 
 # I used Excel and Word to make a make-up as a Triangle. #
+
+# Housing_Data
+
+## Selected topic
+
+
+
+
+## Make deep learning model to predict busts and booms ##
+=======
+1.Selected topic:
+
+US Housing Market(data provided by Zillow) 
+
+Link: https://www.zillow.com/research/data/
+
+
+## Description of their source of data
+
+The data sets that will be used for this project are provided by Zillow. All data sets are relating to the US Housing market prices, indexes, trends, etc. 
+=======
+2. Reason why they selected their topic 
+The US housing market is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
+
+
+
+## Database 
+
+The data sets provided by Zillow include Home Values, Home Values Forecasts, Rentals, Inventory, List and Sale Prices, Sales Count and Price Cuts for the United States.
+
+-Home Values Data Set: Zillow Home Value Index (ZHVI) provides the measures of the home value and market changes by region and housing type.
+-Home Values Forecasts: Zillow Home Value Forecast (ZHVF) one year forecast that is created by using data from all the homes. 
+-Rentals: Zillow Observed Rent Index (ZORI) provides the typical rate rent by region. 
+-Inventory: For-sale inventory, new listings, newly pending listings, days to pending. This is reported on a weekly cadence but the data set is only updated monthly. 
+-List and Sale Prices: data set provides the median list price and the median sale price. This is reported on a weekly cadence but the data set is only updated monthly. 
+-Sales Count and Price Cuts:
+
+Our team will be using SQL to join the data sets and create two tables. The first table will include the RegionID, RegionName, StateName, Date, and dollar value. We will be able to join this table by using RegionID. The second table will include the RegionName, StateName, ForecastedDate, ForecastYoYPctChange. We will be able to join by RegionName. Example: 
+
+![Example](tables_example.png)
+
+Link to Zillow csv data sets: https://www.zillow.com/research/data/
+
+
+main
