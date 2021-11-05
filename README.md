@@ -1,14 +1,14 @@
 
 ## Housing Data 
 
-# We made an important Google Drive folder with everything in it:
-https://drive.google.com/drive/folders/1jt_SYqlQy0iqgjkiEEsU6wbk-BqBQ79b
+## Overview of the Analysis
+
+### Backgroung
 
 https://www.zillow.com/research/data/
 
-#
 
-# 
+
 Our machine model will learn to tell us using 5 factors when the housing market will boom or bust. Inputs: Home value forecast, Zillow Observed Rent Index (ZORI), Median Sale Price:, Median List Price, Price Cuts
 Which factor is weighed how much? equally
 How many layers? 1 layer
@@ -18,19 +18,20 @@ They go up, a boom in the market
 Supervised learning because we have labels
 Classification
 Booming or busting
-#
 
-# I used Excel and Word to make a make-up as a Triangle. #
+# References
 
-# Housing_Data
+We made an important Google Drive folder with everything in it:
+
+https://drive.google.com/drive/folders/1jt_SYqlQy0iqgjkiEEsU6wbk-BqBQ79b
+
+ I used Excel and Word to make a make-up as a Triangle. 
 
 ## Selected topic
 
 
-
-
 ## Make deep learning model to predict busts and booms ##
-=======
+
 1.Selected topic:
 
 US Housing Market(data provided by Zillow) 
@@ -42,7 +43,7 @@ Link: https://www.zillow.com/research/data/
 
 
 The data sets that will be used for this project are provided by Zillow. All data sets are relating to the US Housing market prices, indexes, trends, etc. 
-<<<<<<< HEAD
+
 
 
 Questions they hope to answer with the data 
@@ -51,11 +52,9 @@ Questions they hope to answer with the data
 - Predict whether there will be a boom or crash in the US housing market in the next couple of years given the data sets provided on Zillow. 
 - Identify states that are the least and most expensive for the typical income brackets of different home owners. - Are new listings more expensive than other listings? 
 
-=======
-=======
 2. Reason why they selected their topic 
 The US housing market is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
->>>>>>> 9929dbd793fa8b235970cb123db25a5a939173f2
+ 9929dbd793fa8b235970cb123db25a5a939173f2
 
 
 
@@ -77,4 +76,3 @@ Our team will be using SQL to join the data sets and create two tables. The firs
 Link to Zillow csv data sets: https://www.zillow.com/research/data/
 
 
-main
