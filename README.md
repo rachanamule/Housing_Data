@@ -22,10 +22,7 @@ We made an important Google Drive folder with everything in it:
 https://drive.google.com/drive/folders/1jt_SYqlQy0iqgjkiEEsU6wbk-BqBQ79b
 
 
-# I used Excel and Word to make a make-up as a Triangle. #
-
-
-# Housing_Data
+ I used Excel and Word to make a make-up as a Triangle. 
 
 ## Selected topic
 
