@@ -41,7 +41,7 @@ Link to Zillow csv data sets: https://www.zillow.com/research/data/
 
 ## Questions they hope to answer with the data 
 
-- To seek out trends in the US housing market.
+- Current trends in the US housing market.
 
 - Predict whether there will be a boom or crash in the US housing market in the next couple of years given the data sets provided on Zillow. 
 
