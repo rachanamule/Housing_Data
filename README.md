@@ -1,9 +1,10 @@
 
-## Housing Data 
+## Selected Topic : Housing Data Analysis
 
 ## Overview of the Analysis
 
 ### Backgroung
+
 
 Our machine model will learn to tell us using 5 factors when the housing market will boom or bust. Inputs: Home value forecast, Zillow Observed Rent Index (ZORI), Median Sale Price:, Median List Price, Price Cuts
 Which factor is weighed how much? equally
@@ -16,31 +17,11 @@ Classification
 Booming or busting
 
 
-## Deep learning model to predict busts and booms 
+## Resson why we Selected this topic
 
-1.Selected topic:
+As we see many real estate investors fail to recognize the importance of the market analysis. Sometimes they lack the skills and knowledge to complete the market analysis or just don’t understand the benefits, market analysis is an undervalued asset in real estate investment. In reality, the market analysis is the most important element in evaluating a real estate investment. The market analysis forms the base for every calculation and decision that follows. So, thoroughly researching and understanding the market is crucial to good decision-making. So, through this housing market data analysis we would like to help future home buyers.
 
-US Housing Market(data provided by Zillow) 
-
-Link: https://www.zillow.com/research/data/
-
-
-## Description of source of data
-
-The data sets that will be used for this project are provided by Zillow. All data sets are relating to the US Housing market prices, indexes, trends, etc. 
-
-
-Questions they hope to answer with the data 
-
-- To seek out trends in the US housing market.
-- Predict whether there will be a boom or crash in the US housing market in the next couple of years given the data sets provided on Zillow. 
-- Identify states that are the least and most expensive for the typical income brackets of different home owners. - Are new listings more expensive than other listings? 
-
-2. Reason why they selected their topic 
-The US housing market is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
- 
-
-## Database 
+## Description of their source of data
 
 The data sets provided by Zillow include Home Values, Home Values Forecasts, Rentals, Inventory, List and Sale Prices, Sales Count and Price Cuts for the United States.
 
@@ -56,5 +37,19 @@ Our team will be using SQL to join the data sets and create two tables. The firs
 ![Example](tables_example.png)
 
 Link to Zillow csv data sets: https://www.zillow.com/research/data/
+
+
+## Questions they hope to answer with the data 
+
+- To seek out trends in the US housing market.
+
+- Predict whether there will be a boom or crash in the US housing market in the next couple of years given the data sets provided on Zillow. 
+
+- Identify states that are the least and most expensive for the typical income brackets of different home owners. - Are new listings more expensive than other listings? 
+
+- The US housing market is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
+ 
+
+
 
 
