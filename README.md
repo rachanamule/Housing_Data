@@ -3,11 +3,12 @@
 
 ## Overview of the Analysis
 
-### Backgroung
+### Background
 
 
-Our machine model will learn to tell us using 5 factors when the housing market will boom or bust. Inputs: Home value forecast, Zillow Observed Rent Index (ZORI), Median Sale Price:, Median List Price, Price Cuts
-Which factor is weighed how much? equally
+Our machine model will learn to tell us when the housing market will boom or bust by using 5 factors. 
+Inputs: Home value forecast, Zillow Observed Rent Index (ZORI), Median Sale Price, Median List Price, and Price Cuts
+Which factor is weighed how much? Equally
 How many layers? 1 layer
 Predicts busts and booms
 Most of these start going down, bust
@@ -17,9 +18,9 @@ Classification
 Booming or busting
 
 
-## Resson why we Selected this topic
+## Reason why we selected this topic
 
-As we see many real estate investors fail to recognize the importance of the market analysis. Sometimes they lack the skills and knowledge to complete the market analysis or just don’t understand the benefits, market analysis is an undervalued asset in real estate investment. In reality, the market analysis is the most important element in evaluating a real estate investment. The market analysis forms the base for every calculation and decision that follows. So, thoroughly researching and understanding the market is crucial to good decision-making. So, through this housing market data analysis we would like to help future home buyers.
+Many real estate investors fail to recognize the importance of the market analysis. Sometimes they lack the skills and knowledge to complete the market analysis or just don’t understand the benefits, market analysis is an undervalued asset in real estate investment. In reality, the market analysis is the most important element in evaluating a real estate investment. The market analysis forms the base for every calculation and decision that follows. So, thoroughly researching and understanding the market is crucial to good decision-making. So, through this housing market data analysis we would like to help future home buyers.
 
 ## Description of their source of data
 
