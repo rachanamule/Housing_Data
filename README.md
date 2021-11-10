@@ -20,7 +20,7 @@ Classification
 Booming or busting
 #
 
-# I used Excel and Word to make a make-up as a Triangle. #
+# I used Excel and Word to make a make-up as the Square #
 
 # Housing_Data
 
