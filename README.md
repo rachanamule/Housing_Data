@@ -7,15 +7,17 @@
 
 
 Our machine model will learn to tell us when the housing market will boom or bust by using 5 factors. 
-Inputs: Home value forecast, Zillow Observed Rent Index (ZORI), Median Sale Price, Median List Price, and Price Cuts
-Which factor is weighed how much? Equally
-How many layers? 1 layer
-Predicts busts and booms
-Most of these start going down, bust
-They go up, a boom in the market
-Supervised learning because we have labels
-Classification
-Booming or busting
+
+* Home value forecast
+
+* Zillow Observed Rent Index (ZORI)
+
+* Median Sale Price
+
+* Median List Price 
+
+* Price Cuts
+
 
 
 ## Reason why we selected this topic
