@@ -18,6 +18,10 @@ Our machine model will learn to tell us when the housing market will boom or bus
 
 * Price Cuts
 
+### Presentation 
+
+![URL for Presentation](https://docs.google.com/presentation/d/1U59qezayxOAsaVCG8OnJ477SRfjQbeYL9wzDKbuShEs/edit#slide=id.g101bc9f745f_0_6)
+
 
 
 ## Reason why we selected this topic
