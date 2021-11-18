@@ -31,6 +31,6 @@ Questions they hope to answer with the data
 =======
 =======
 2. Reason why they selected their topic 
-The US housing market is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
+The US housing markeßt is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
 >>>>>>> 9929dbd793fa8b235970cb123db25a5a939173f2
 
