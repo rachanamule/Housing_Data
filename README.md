@@ -1,5 +1,5 @@
 
-## Selected Topic : Housing Data Analysis
+## Selected Topic : Housing Market Data Analysis
 
 ## Overview of the Analysis
 
@@ -7,15 +7,21 @@
 
 
 Our machine model will learn to tell us when the housing market will boom or bust by using 5 factors. 
-Inputs: Home value forecast, Zillow Observed Rent Index (ZORI), Median Sale Price, Median List Price, and Price Cuts
-Which factor is weighed how much? Equally
-How many layers? 1 layer
-Predicts busts and booms
-Most of these start going down, bust
-They go up, a boom in the market
-Supervised learning because we have labels
-Classification
-Booming or busting
+
+* Home value forecast
+
+* Zillow Observed Rent Index (ZORI)
+
+* Median Sale Price
+
+* Median List Price 
+
+* Price Cuts
+
+### Presentation 
+
+URL for Presentation: (https://docs.google.com/presentation/d/1U59qezayxOAsaVCG8OnJ477SRfjQbeYL9wzDKbuShEs/edit#slide=id.g101bc9f745f_0_6)
+
 
 
 ## Reason why we selected this topic
@@ -26,12 +32,16 @@ Many real estate investors fail to recognize the importance of the market analys
 
 The data sets provided by Zillow include Home Values, Home Values Forecasts, Rentals, Inventory, List and Sale Prices, Sales Count and Price Cuts for the United States.
 
--Home Values Data Set: Zillow Home Value Index (ZHVI) provides the measures of the home value and market changes by region and housing type.
--Home Values Forecasts: Zillow Home Value Forecast (ZHVF) one year forecast that is created by using data from all the homes. 
+* Home Values Data Set: Zillow Home Value Index (ZHVI) provides the measures of the home value and market changes by region and housing type.
+
+* Home Values Forecasts: Zillow Home Value Forecast (ZHVF) one year forecast that is created by using data from all the homes. 
 -Rentals: Zillow Observed Rent Index (ZORI) provides the typical rate rent by region. 
--Inventory: For-sale inventory, new listings, newly pending listings, days to pending. This is reported on a weekly cadence but the data set is only updated monthly. 
--List and Sale Prices: data set provides the median list price and the median sale price. This is reported on a weekly cadence but the data set is only updated monthly. 
--Sales Count and Price Cuts:
+
+* Inventory: For-sale inventory, new listings, newly pending listings, days to pending. This is reported on a weekly cadence but the data set is only updated monthly. 
+
+* List and Sale Prices: data set provides the median list price and the median sale price. This is reported on a weekly cadence but the data set is only updated monthly.
+ 
+* Sales Count and Price Cuts: Zillow data on sales of houses and price.
 
 Our team will be using SQL to join the data sets and create two tables. The first table will include the RegionID, RegionName, StateName, Date, and dollar value. We will be able to join this table by using RegionID. The second table will include the RegionName, StateName, ForecastedDate, ForecastYoYPctChange. We will be able to join by RegionName. Example: 
 
