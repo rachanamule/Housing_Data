@@ -1,3 +1,8 @@
+Create Table region (
+	cityid Int not null,
+	RegionName Varchar Not null
+	);
+
 CREATE TABLE avg_2020 (
 	RegionName VARCHAR NOT NULL,
 	avg_2020 INT NOT NULL, 
@@ -14,6 +19,8 @@ CREATE TABLE avg_2017 (
 );
 	
 SELECT * FROM avg_2017;
+
+SELECT * FROM avg_2020;
 
 SELECT * FROM region;
 
