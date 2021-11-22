@@ -1,5 +1,6 @@
 
 ## Selected Topic : Housing Market Data Analysis
+We will predict the future average price of a houses in a city using linear regression. 
 
 ## Overview of the Analysis
 
