@@ -46,7 +46,7 @@ The data sets provided by Zillow include Home Values, Home Values Forecasts, Ren
 
 Our team will be using SQL to join the data sets and create two tables. The first table will include the RegionID, RegionName, StateName, Date, and dollar value. We will be able to join this table by using RegionID. The second table will include the RegionName, StateName, ForecastedDate, ForecastYoYPctChange. We will be able to join by RegionName. Example: 
 
-![Example](tables_example.png)
+![Example](https://github.com/rachanamule/Housing_Data/blob/406ab968dcc8e8c83534cc9c594cfb331348ce69/diagrams/tables_example.png)
 
 Link to Zillow csv data sets: https://www.zillow.com/research/data/
 
