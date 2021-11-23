@@ -7,17 +7,17 @@ We will predict the future average price of a houses in a city using linear regr
 ### Background
 
 
-Our machine model will learn to tell us when the housing market will boom or bust by using 5 factors. 
+Our machine model will learn to predict the 6 month prices for the different cities in the United States. All the data used for this project was gotten from the Zillow website. 
 
-* Home value forecast
+Our Database, model and visualization will provide home buyers with the following: 
 
-* Zillow Observed Rent Index (ZORI)
+* A comprehensive list of home prices for each month within the last 5 years in major cities across the United States.
 
-* Median Sale Price
+* A datasource with the average home prices for each year (2017-2021) in the major cities in the United States. 
 
-* Median List Price 
+* A visualization dashboard showing necessary information from the dataset including maps showing geographical locations with the cheaper more expensive houses for home buys to make an information decision on cities to start a search for a home based on their budget. These visualization give the users there ability to filter cities and homes based on preferences.
 
-* Price Cuts
+* A machine learning model to predict the price of homes in the different cities for the next six months. This will allow buyers be prepared for their buys.
 
 ### Presentation 
 
@@ -46,24 +46,18 @@ The data sets provided by Zillow include Home Values, Home Values Forecasts, Ren
 
 Our team will be using SQL to join the data sets and create two tables. The first table will include the RegionID, RegionName, StateName, Date, and dollar value. We will be able to join this table by using RegionID. The second table will include the RegionName, StateName, ForecastedDate, ForecastYoYPctChange. We will be able to join by RegionName. Example: 
 
-![Example](https://github.com/rachanamule/Housing_Data/blob/406ab968dcc8e8c83534cc9c594cfb331348ce69/diagrams/tables_example.png)
-
 Link to Zillow csv data sets: https://www.zillow.com/research/data/
 
 
-## Questions they hope to answer with the data 
+## Questions that will be answered in our deliverables 
 
-- Current trends in the US housing market.
+* Current trends in the US housing market.
 
-- Predict whether there will be a boom or crash in the US housing market in the next couple of years given the data sets provided on Zillow. 
+* Predict the dollar amounts of homes for the next 6 months in 94 cities across the Unites States.
 
-- Identify states that are the least and most expensive for the typical income brackets of different home owners. - Are new listings more expensive than other listings? 
+* Identify states that are the least and most expensive for home buyers. 
 
-
-2. Reason why they selected their topic 
-
-- The US housing market is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
- 
+* Was there an increase or decrease in the purchase of homes during covid.
 
 
 
