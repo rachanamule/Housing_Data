@@ -59,9 +59,11 @@ Link to Zillow csv data sets: https://www.zillow.com/research/data/
 
 - Identify states that are the least and most expensive for the typical income brackets of different home owners. - Are new listings more expensive than other listings? 
 
+
+2. Reason why they selected their topic 
+
 - The US housing market is relatively interesting and there were low interest rates during the covid period. Did that led to an increase in purchase of homes?
  
-
 
 
 
