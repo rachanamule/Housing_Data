@@ -1,0 +1,189 @@
+RegionName,AverageMedian,City,State,Year
+"New York, NY","$448,065.00 ",New York, NY,2020
+"Los Angeles-Long Beach-Anaheim, CA","$699,588.00 ",Los Angeles-Long Beach-Anaheim, CA,2020
+"Chicago, IL","$255,368.00 ",Chicago, IL,2020
+"Dallas-Fort Worth, TX","$289,596.00 ",Dallas-Fort Worth, TX,2020
+"Philadelphia, PA","$270,493.00 ",Philadelphia, PA,2020
+"Houston, TX","$257,808.00 ",Houston, TX,2020
+"Washington, DC","$440,161.00 ",Washington, DC,2020
+"Miami-Fort Lauderdale, FL","$318,319.00 ",Miami-Fort Lauderdale, FL,2020
+"Atlanta, GA","$275,654.00 ",Atlanta, GA,2020
+"Boston, MA","$503,397.00 ",Boston, MA,2020
+"San Francisco, CA","$857,236.00 ",San Francisco, CA,2020
+"Detroit, MI","$205,995.00 ",Detroit, MI,2020
+"Riverside, CA","$411,895.00 ",Riverside, CA,2020
+"Phoenix, AZ","$316,432.00 ",Phoenix, AZ,2020
+"Seattle, WA","$540,855.00 ",Seattle, WA,2020
+"Minneapolis-St Paul, MN","$300,425.00 ",Minneapolis-St Paul, MN,2020
+"San Diego, CA","$629,125.00 ",San Diego, CA,2020
+"St. Louis, MO","$204,577.00 ",St. Louis, MO,2020
+"Tampa, FL","$253,525.00 ",Tampa, FL,2020
+"Baltimore, MD","$310,426.00 ",Baltimore, MD,2020
+"Denver, CO","$451,843.00 ",Denver, CO,2020
+"Pittsburgh, PA","$186,213.00 ",Pittsburgh, PA,2020
+"Portland, OR","$427,713.00 ",Portland, OR,2020
+"Charlotte, NC","$286,534.00 ",Charlotte, NC,2020
+"Sacramento, CA","$453,631.00 ",Sacramento, CA,2020
+"San Antonio, TX","$246,564.00 ",San Antonio, TX,2020
+"Orlando, FL","$279,776.00 ",Orlando, FL,2020
+"Cincinnati, OH","$203,549.00 ",Cincinnati, OH,2020
+"Cleveland, OH","$166,095.00 ",Cleveland, OH,2020
+"Kansas City, MO","$244,806.00 ",Kansas City, MO,2020
+"Las Vegas, NV","$316,556.00 ",Las Vegas, NV,2020
+"Columbus, OH","$229,409.00 ",Columbus, OH,2020
+"Indianapolis, IN","$217,152.00 ",Indianapolis, IN,2020
+"San Jose, CA","$1,114,256.00 ",San Jose, CA,2020
+"Austin, TX","$347,015.00 ",Austin, TX,2020
+"Virginia Beach, VA","$269,150.00 ",Virginia Beach, VA,2020
+"Nashville, TN","$315,959.00 ",Nashville, TN,2020
+"Providence, RI","$315,720.00 ",Providence, RI,2020
+"Milwaukee, WI","$216,337.00 ",Milwaukee, WI,2020
+"Jacksonville, FL","$266,553.00 ",Jacksonville, FL,2020
+"Memphis, TN","$208,062.00 ",Memphis, TN,2020
+"Oklahoma City, OK","$201,416.00 ",Oklahoma City, OK,2020
+"Louisville-Jefferson County, KY","$207,523.00 ",Louisville-Jefferson County, KY,2020
+"Hartford, CT","$244,290.00 ",Hartford, CT,2020
+"Richmond, VA","$276,385.00 ",Richmond, VA,2020
+"New Orleans, LA","$224,824.00 ",New Orleans, LA,2020
+"Buffalo, NY","$177,086.00 ",Buffalo, NY,2020
+"Raleigh, NC","$310,543.00 ",Raleigh, NC,2020
+"Birmingham, AL","$223,369.00 ",Birmingham, AL,2020
+"Salt Lake City, UT","$370,287.00 ",Salt Lake City, UT,2020
+"Rochester, NY","$165,980.00 ",Rochester, NY,2020
+"Grand Rapids, MI","$227,293.00 ",Grand Rapids, MI,2020
+"Tucson, AZ","$246,109.00 ",Tucson, AZ,2020
+"Urban Honolulu, HI","$612,388.00 ",Urban Honolulu, HI,2020
+"Tulsa, OK","$194,112.00 ",Tulsa, OK,2020
+"Fresno, CA","$309,611.00 ",Fresno, CA,2020
+"Worcester, MA","$306,991.00 ",Worcester, MA,2020
+"Stamford, CT","$449,934.00 ",Stamford, CT,2020
+"Albuquerque, NM","$237,958.00 ",Albuquerque, NM,2020
+"Albany, NY","$212,893.00 ",Albany, NY,2020
+"Omaha, NE","$215,248.00 ",Omaha, NE,2020
+"New Haven, CT","$241,694.00 ",New Haven, CT,2020
+"Bakersfield, CA","$264,884.00 ",Bakersfield, CA,2020
+"Knoxville, TN","$229,997.00 ",Knoxville, TN,2020
+"Greenville, SC","$227,435.00 ",Greenville, SC,2020
+"Ventura, CA","$643,493.00 ",Ventura, CA,2020
+"Allentown, PA","$221,587.00 ",Allentown, PA,2020
+"El Paso, TX","$175,243.00 ",El Paso, TX,2020
+"Baton Rouge, LA","$220,515.00 ",Baton Rouge, LA,2020
+"Dayton, OH","$157,095.00 ",Dayton, OH,2020
+"McAllen, TX","$167,322.00 ",McAllen, TX,2020
+"Columbia, SC","$195,957.00 ",Columbia, SC,2020
+"Greensboro, NC","$180,208.00 ",Greensboro, NC,2020
+"Akron, OH","$162,611.00 ",Akron, OH,2020
+"North Port-Sarasota-Bradenton, FL","$295,359.00 ",North Port-Sarasota-Bradenton, FL,2020
+"Little Rock, AR","$181,469.00 ",Little Rock, AR,2020
+"Stockton, CA","$442,513.00 ",Stockton, CA,2020
+"Charleston, SC","$306,042.00 ",Charleston, SC,2020
+"Syracuse, NY","$158,166.00 ",Syracuse, NY,2020
+"Colorado Springs, CO","$362,324.00 ",Colorado Springs, CO,2020
+"Winston-Salem, NC","$191,236.00 ",Winston-Salem, NC,2020
+"Wichita, KS","$169,213.00 ",Wichita, KS,2020
+"Springfield, MA","$237,747.00 ",Springfield, MA,2020
+"Fort Myers, FL","$247,717.00 ",Fort Myers, FL,2020
+"Boise City, ID","$349,229.00 ",Boise City, ID,2020
+"Toledo, OH","$138,511.00 ",Toledo, OH,2020
+"Madison, WI","$290,239.00 ",Madison, WI,2020
+"Lakeland, FL","$221,507.00 ",Lakeland, FL,2020
+"Ogden, UT","$324,646.00 ",Ogden, UT,2020
+"Daytona Beach, FL","$237,567.00 ",Daytona Beach, FL,2020
+"Des Moines, IA","$227,195.00 ",Des Moines, IA,2020
+"Provo, UT","$357,802.00 ",Provo, UT,2020
+"Durham, NC","$305,591.00 ",Durham, NC,2020
+"Fort Collins, CO","$408,106.00 ",Fort Collins, CO,2020
+"New York, NY","$492,570.00 ",New York, NY,2021
+"Los Angeles-Long Beach-Anaheim, CA","$778,865.00 ",Los Angeles-Long Beach-Anaheim, CA,2021
+"Chicago, IL","$274,527.00 ",Chicago, IL,2021
+"Dallas-Fort Worth, TX","$326,257.00 ",Dallas-Fort Worth, TX,2021
+"Philadelphia, PA","$283,647.00 ",Philadelphia, PA,2021
+"Houston, TX","$287,089.00 ",Houston, TX,2021
+"Washington, DC","$466,761.00 ",Washington, DC,2021
+"Miami-Fort Lauderdale, FL","$346,602.00 ",Miami-Fort Lauderdale, FL,2021
+"Atlanta, GA","$307,716.00 ",Atlanta, GA,2021
+"Boston, MA","$551,705.00 ",Boston, MA,2021
+"San Francisco, CA","$973,112.00 ",San Francisco, CA,2021
+"Detroit, MI","$221,139.00 ",Detroit, MI,2021
+"Riverside, CA","$464,820.00 ",Riverside, CA,2021
+"Phoenix, AZ","$369,781.00 ",Phoenix, AZ,2021
+"Seattle, WA","$609,602.00 ",Seattle, WA,2021
+"Minneapolis-St Paul, MN","$325,827.00 ",Minneapolis-St Paul, MN,2021
+"San Diego, CA","$706,588.00 ",San Diego, CA,2021
+"St. Louis, MO","$214,856.00 ",St. Louis, MO,2021
+"Tampa, FL","$281,793.00 ",Tampa, FL,2021
+"Baltimore, MD","$317,042.00 ",Baltimore, MD,2021
+"Denver, CO","$506,362.00 ",Denver, CO,2021
+"Pittsburgh, PA","$200,472.00 ",Pittsburgh, PA,2021
+"Portland, OR","$474,275.00 ",Portland, OR,2021
+"Charlotte, NC","$314,256.00 ",Charlotte, NC,2021
+"Sacramento, CA","$508,870.00 ",Sacramento, CA,2021
+"San Antonio, TX","$269,148.00 ",San Antonio, TX,2021
+"Orlando, FL","$303,793.00 ",Orlando, FL,2021
+"Cincinnati, OH","$218,480.00 ",Cincinnati, OH,2021
+"Cleveland, OH","$175,257.00 ",Cleveland, OH,2021
+"Kansas City, MO","$263,798.00 ",Kansas City, MO,2021
+"Las Vegas, NV","$343,736.00 ",Las Vegas, NV,2021
+"Columbus, OH","$246,659.00 ",Columbus, OH,2021
+"Indianapolis, IN","$236,436.00 ",Indianapolis, IN,2021
+"San Jose, CA","$1,238,594.00 ",San Jose, CA,2021
+"Austin, TX","$435,538.00 ",Austin, TX,2021
+"Virginia Beach, VA","$281,968.00 ",Virginia Beach, VA,2021
+"Nashville, TN","$348,882.00 ",Nashville, TN,2021
+"Providence, RI","$339,456.00 ",Providence, RI,2021
+"Milwaukee, WI","$226,423.00 ",Milwaukee, WI,2021
+"Jacksonville, FL","$291,632.00 ",Jacksonville, FL,2021
+"Memphis, TN","$223,611.00 ",Memphis, TN,2021
+"Oklahoma City, OK","$213,926.00 ",Oklahoma City, OK,2021
+"Louisville-Jefferson County, KY","$219,546.00 ",Louisville-Jefferson County, KY,2021
+"Hartford, CT","$262,471.00 ",Hartford, CT,2021
+"Richmond, VA","$296,861.00 ",Richmond, VA,2021
+"New Orleans, LA","$237,622.00 ",New Orleans, LA,2021
+"Buffalo, NY","$190,906.00 ",Buffalo, NY,2021
+"Raleigh, NC","$341,686.00 ",Raleigh, NC,2021
+"Birmingham, AL","$238,117.00 ",Birmingham, AL,2021
+"Salt Lake City, UT","$432,459.00 ",Salt Lake City, UT,2021
+"Rochester, NY","$177,797.00 ",Rochester, NY,2021
+"Grand Rapids, MI","$250,319.00 ",Grand Rapids, MI,2021
+"Tucson, AZ","$282,932.00 ",Tucson, AZ,2021
+"Urban Honolulu, HI","$633,715.00 ",Urban Honolulu, HI,2021
+"Tulsa, OK","$209,638.00 ",Tulsa, OK,2021
+"Fresno, CA","$338,670.00 ",Fresno, CA,2021
+"Worcester, MA","$334,623.00 ",Worcester, MA,2021
+"Stamford, CT","$506,654.00 ",Stamford, CT,2021
+"Albuquerque, NM","$267,526.00 ",Albuquerque, NM,2021
+"Albany, NY","$224,891.00 ",Albany, NY,2021
+"Omaha, NE","$238,110.00 ",Omaha, NE,2021
+"New Haven, CT","$265,857.00 ",New Haven, CT,2021
+"Bakersfield, CA","$288,058.00 ",Bakersfield, CA,2021
+"Knoxville, TN","$248,018.00 ",Knoxville, TN,2021
+"Greenville, SC","$243,341.00 ",Greenville, SC,2021
+"Ventura, CA","$716,592.00 ",Ventura, CA,2021
+"Allentown, PA","$237,885.00 ",Allentown, PA,2021
+"El Paso, TX","$188,544.00 ",El Paso, TX,2021
+"Baton Rouge, LA","$230,965.00 ",Baton Rouge, LA,2021
+"Dayton, OH","$165,342.00 ",Dayton, OH,2021
+"McAllen, TX","$182,044.00 ",McAllen, TX,2021
+"Columbia, SC","$213,321.00 ",Columbia, SC,2021
+"Greensboro, NC","$179,956.00 ",Greensboro, NC,2021
+"Akron, OH","$163,399.00 ",Akron, OH,2021
+"North Port-Sarasota-Bradenton, FL","$337,085.00 ",North Port-Sarasota-Bradenton, FL,2021
+"Little Rock, AR","$193,413.00 ",Little Rock, AR,2021
+"Stockton, CA","$482,439.00 ",Stockton, CA,2021
+"Charleston, SC","$341,061.00 ",Charleston, SC,2021
+"Syracuse, NY","$164,077.00 ",Syracuse, NY,2021
+"Colorado Springs, CO","$410,242.00 ",Colorado Springs, CO,2021
+"Winston-Salem, NC","$185,654.00 ",Winston-Salem, NC,2021
+"Wichita, KS","$190,451.00 ",Wichita, KS,2021
+"Springfield, MA","$256,535.00 ",Springfield, MA,2021
+"Fort Myers, FL","$253,495.00 ",Fort Myers, FL,2021
+"Boise City, ID","$433,666.00 ",Boise City, ID,2021
+"Toledo, OH","$145,436.00 ",Toledo, OH,2021
+"Madison, WI","$316,988.00 ",Madison, WI,2021
+"Lakeland, FL","$243,558.00 ",Lakeland, FL,2021
+"Ogden, UT","$376,632.00 ",Ogden, UT,2021
+"Daytona Beach, FL","$265,778.00 ",Daytona Beach, FL,2021
+"Des Moines, IA","$242,528.00 ",Des Moines, IA,2021
+"Provo, UT","$421,636.00 ",Provo, UT,2021
+"Durham, NC","$338,338.00 ",Durham, NC,2021
+"Fort Collins, CO","$443,385.00 ",Fort Collins, CO,2021
