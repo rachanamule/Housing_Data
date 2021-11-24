@@ -21,13 +21,57 @@ Our Database, model and visualization will provide home buyers with the followin
 
 ### Presentation 
 
-URL for Presentation: (https://docs.google.com/presentation/d/1U59qezayxOAsaVCG8OnJ477SRfjQbeYL9wzDKbuShEs/edit#slide=id.g101bc9f745f_0_6)
+URL for Presentation: (https://docs.google.com/presentation/d/1U59qezayxOAsaVCG8OnJ477SRfjQbeYL9wzDKbuShEs/edit?usp=sharing)
 
 
 
 ## Reason why we selected this topic
 
 Many real estate investors fail to recognize the importance of the market analysis. Sometimes they lack the skills and knowledge to complete the market analysis or just don’t understand the benefits, market analysis is an undervalued asset in real estate investment. In reality, the market analysis is the most important element in evaluating a real estate investment. The market analysis forms the base for every calculation and decision that follows. So, thoroughly researching and understanding the market is crucial to good decision-making. So, through this housing market data analysis we would like to help future home buyers.
+
+## Descriptions of folders/files 
+* Database:
+	database_Script.sql 
+
+	database_script.txt
+
+* Resources1: 
+
+	2017_2019_price.csv - Modified saleprice_2017_avg.csv to fit the machine learning model 
+
+	2020_2021_price.csv - Modified saleprice_2020_avg.csv to fit the machine learning model 
+
+	CleanForsale.csv - Initial dataset containing all the median prices for homes. 
+
+	avgprice_database.csv - Our main database with the information of the city_id, region names, and average home prices for the 94 cities for 2017-2021. 
+
+	region_name.csv - CSV with the unique city_id numbers with their respective region names (which comprises of the city, state). Table 3 that was used for the join for the database.
+ 
+	saleprice_2017_avg.csv - Table 1 that was used for the join for the database. Contains the average price of the median values for the different cities from 2017-2019.
+
+	saleprice_2020_avg.csv - Table 2 that was used for the join for the database. Contains the average price of the median values for the different cities from 2020-2021.
+
+* class_examples: 
+
+	Example of machine learning pattern from class module
+Diagrams: 
+
+	machine_learning_model.docx - machine learning relationship diagram 
+
+	machine_learning_model.xlsm 
+
+	Database ERD - shows the flow chat for the database 
+
+* Python 
+
+	This folder contains the different .ipynb files for the project:
+
+	Housing_Data.ipynb - Cleaning of the different data files 
+	average_2017_2019.ipynb - Additional cleaning of data 
+
+	house_machine_learning.ipynb - Machine learning model file 
+
+	house_neural_network.ipynb - Neural networks file
 
 ## Description of their source of data
 
